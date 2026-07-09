@@ -2,7 +2,7 @@
   <img src="./banner.png" alt="Allaki Banner" width="100%" />
 </p>
 
-https://readme-typing-svg.demolab.com/demo/?font=Inter&size=28&color=E8DCC8&center=true&width=700&height=60&lines=Building+software+with+purpose.;Designing+intuitive+experiences.;Creating+scalable+business+solutions.;Always+learning.+Always+improving.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1000&color=E8DCC8&center=true&width=700&height=60&lines=Building+software+with+purpose.;Designing+intuitive+experiences.;Creating+scalable+business+solutions.;Always+learning.+Always+improving.)](https://git.io/typing-svg)
 
 # Hi, I'm Alvin Langat.
 
