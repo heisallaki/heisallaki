@@ -2,15 +2,21 @@
   <img src="./banner.png" alt="Allaki Banner" width="100%" />
 </p>
 
+https://readme-typing-svg.demolab.com/demo/?font=Inter&size=28&color=E8DCC8&center=true&width=700&height=60&lines=Building+software+with+purpose.;Designing+intuitive+experiences.;Creating+scalable+business+solutions.;Always+learning.+Always+improving.
+
 # Hi, I'm Alvin Langat.
 
-Building software that simplifies real-world business operations through thoughtful design, scalable architecture, and clean user experiences.
+I'm a full stack developer focused on building modern software that balances thoughtful design, clean architecture, and real-world usability.
+
+I enjoy turning complex business workflows into intuitive digital experiences while continuously refining performance, maintainability, and user experience.
 
 ## About
 
-I'm passionate about building software that solves practical problems through clean architecture, intuitive interfaces, and scalable systems.
-
-I enjoy transforming complex workflows into modern digital experiences while continuously improving my craft.
+- Building **SmartBizzSystem**
+- Passionate about scalable software architecture
+- Focused on modern UI/UX
+- Writing clean, maintainable TypeScript
+- Always improving one project at a time
 
 ## Currently Building
 
