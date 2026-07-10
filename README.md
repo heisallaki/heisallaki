@@ -95,3 +95,32 @@ Current modules include:
 <img src="https://komarev.com/ghpvc/?username=heisallaki&label=Profile%20Views&color=0F172A&style=flat"/>
 
 </p>
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=heisallaki&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heisallaki&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=heisallaki&theme=transparent&hide_border=true" />
+</p>
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heisallaki&theme=github-dark&hide_border=true" />
+</p>
+
+## Development Metrics
+
+<p align="center">
+  <img src="./github-metrics.svg" width="100%" />
+</p>
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/heisallaki/heisallaki/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
