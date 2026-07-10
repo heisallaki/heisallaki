@@ -6,7 +6,7 @@
 
 # Hi, I'm Alvin Langat.
 
-I'm a full stack developer focused on building modern software that balances thoughtful design, clean architecture, and real-world usability.
+I'm a developer focused on building modern software that balances thoughtful design, clean architecture, and real-world usability.
 
 I enjoy turning complex business workflows into intuitive digital experiences while continuously refining performance, maintainability, and user experience.
 
