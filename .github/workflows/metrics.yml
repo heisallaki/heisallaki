@@ -21,10 +21,16 @@ jobs:
           user: heisallaki
           filename: github-metrics.svg
 
-          template: classic
+          template: terminal
           base: header, activity, community, repositories, metadata
 
           config_timezone: Africa/Nairobi
+          
+          config_display: large
+
+          config_padding: 12
+
+          config_octicon: yes
 
           plugin_isocalendar: yes
           plugin_languages: yes
@@ -33,7 +39,7 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_colors: github
 
-          plugin_achievements: yes
+          plugin_achievements: no
 
           plugin_followup: yes
 

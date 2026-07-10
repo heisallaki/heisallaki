@@ -38,89 +38,72 @@ Current modules include:
 
 ## Tech Stack
 
-<p align="left">
+<p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42"/>
 
 </p>
 
-## GitHub Analytics
+---
+
+# GitHub Analytics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=heisallaki&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heisallaki&layout=compact&theme=transparent&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=heisallaki&theme=transparent&hide_border=true"/>
-
 </p>
 
-## Contribution Activity
+---
+
+# Contribution Activity
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=heisallaki&theme=github-dark&hide_border=true"/>
-
 </p>
 
+---
+
+# Contribution Snake
+
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=heisallaki&label=Profile%20Views&color=0F172A&style=flat"/>
-
+<img src="https://raw.githubusercontent.com/heisallaki/heisallaki/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
-## GitHub Analytics
+---
+
+## Featured Project
+
+### SmartBizzSystem
+
+A scalable business management platform designed to streamline business operations through modern architecture and an intuitive user experience.
+
+---
+
+# Developer Insights
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=heisallaki&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heisallaki&layout=compact&hide_border=true&theme=transparent" />
+<img src="https://raw.githubusercontent.com/heisallaki/heisallaki/main/github-metrics.svg" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=heisallaki&theme=transparent&hide_border=true" />
-</p>
-
-## Contribution Activity
+---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heisallaki&theme=github-dark&hide_border=true" />
-</p>
-
-## Development Metrics
-
-<p align="center">
-  <img src="./github-metrics.svg" width="100%" />
-</p>
-
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/heisallaki/heisallaki/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+Built with ❤️ using GitHub Actions, TypeScript, and a lot of coffee.
 </p>
