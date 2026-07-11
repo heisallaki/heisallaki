@@ -105,5 +105,5 @@ A scalable business management platform designed to streamline business operatio
 ---
 
 <p align="center">
-Built with ❤️ using GitHub Actions, TypeScript, and a lot of coffee.
+© 2026–Present KAL
 </p>
