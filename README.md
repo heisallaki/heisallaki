@@ -47,7 +47,7 @@ Current modules include:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="42" title="Vite"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="42" title="Material UI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" width="42" title="React Router"/>
-  <img src="https://axios-http.com/assets/logo.svg" width="42" title="Axios"/>
+<img src="https://cdn.simpleicons.org/axios" width="42" title="Axios"/>
 </p>
 
 **Libraries:** Recharts • jsPDF • SheetJS (xlsx)
@@ -58,7 +58,7 @@ Current modules include:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" title="Express"/>
+  <img src="https://cdn.simpleicons.org/express/FFFFFF" width="42" title="Express.js"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="42" title="Prisma ORM"/>
 </p>
 
@@ -79,7 +79,7 @@ Current modules include:
 ### Deployment
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/vercel/white" width="42" title="Vercel"/>
+  <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="42" title="Vercel"/>
   <img src="https://cdn.simpleicons.org/render/46E3B7" width="42" title="Render"/>
 </p>
 
@@ -129,9 +129,23 @@ Current modules include:
 
 ## Featured Project
 
-### SmartBizzSystem
+# SmartBizzSystem
 
-A scalable business management platform designed to streamline business operations through modern architecture and an intuitive user experience.
+A modern business management platform built to help small and medium-sized businesses streamline inventory, sales, customer management, supplier operations, reporting, and point-of-sale workflows through a fast, intuitive, and scalable web application.
+
+### Highlights
+
+- Modern dashboard with real-time business insights
+- Inventory and supplier management
+- Sales and customer management
+- Point of Sale (POS)
+- Business reporting and analytics
+- Secure JWT-based authentication
+- Responsive Material UI interface
+
+### Built With
+
+**React 19 • TypeScript • Vite • Material UI • Express.js • Prisma ORM • PostgreSQL (Neon) • Render • Vercel**
 
 ---
 
