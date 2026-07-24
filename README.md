@@ -57,9 +57,17 @@ Current modules include:
 ### Backend
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" title="Node.js"/>
-  <img src="https://cdn.simpleicons.org/express/FFFFFF" width="42" title="Express.js"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="42" title="Prisma ORM"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" title="Node.js"/> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/prisma/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/prisma/2D3748">
+    <img src="https://cdn.simpleicons.org/prisma/2D3748" width="42" title="Prisma ORM" alt="Prisma ORM"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/000000">
+    <img src="https://cdn.simpleicons.org/express/000000" width="42" title="Express.js" alt="Express.js"/>
+  </picture>
 </p>
 
 **Authentication:** JWT • bcrypt
@@ -79,7 +87,11 @@ Current modules include:
 ### Deployment
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="42" title="Vercel"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/vercel/000000">
+    <img src="https://cdn.simpleicons.org/vercel/000000" width="42" title="Vercel" alt="Vercel"/>
+  </picture>
   <img src="https://cdn.simpleicons.org/render/46E3B7" width="42" title="Render"/>
 </p>
 
@@ -89,10 +101,14 @@ Current modules include:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" title="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42" title="Postman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" title="Figma"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
+    <img src="https://cdn.simpleicons.org/github/181717" width="42" title="GitHub" alt="GitHub"/>
+  </picture>
 </p>
 
 ---
