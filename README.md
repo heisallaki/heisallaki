@@ -121,10 +121,6 @@ Current modules include:
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=heisallaki&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=heisallaki&theme=transparent&hide_border=true"/>
-</p>
-
 ---
 
 # Contribution Activity
