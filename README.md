@@ -6,35 +6,16 @@
 
 # Hi, I'm Alvin Langat.
 
-I'm a developer focused on building modern software that balances thoughtful design, clean architecture, and real-world usability.
+I'm a developer focused on building modern software with clean architecture, thoughtful design, and real-world usability.
 
-I enjoy turning complex business workflows into intuitive digital experiences while continuously refining performance, maintainability, and user experience.
+I enjoy turning complex workflows into intuitive digital experiences while continuously improving performance, maintainability, and user experience.
 
 ## About
 
-- Building **SmartBizzSystem**
-- Passionate about scalable software architecture
-- Focused on modern UI/UX
-- Writing clean, maintainable TypeScript
-- Always improving one project at a time
-
-## Currently Building
-
-### SmartBizzSystem
-
-A modern business management platform focused on speed, usability, and scalability.
-
-Current modules include:
-
-- Dashboard
-- Customers
-- Inventory
-- Sales
-- Suppliers
-- Reports
-- Authentication
-- Point of Sale
-- Settings
+* Focused on scalable software architecture
+* Passionate about modern UI/UX
+* Building clean, maintainable applications
+* Always refining one project at a time
 
 ## Tech Stack
 
@@ -47,7 +28,7 @@ Current modules include:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="42" title="Vite"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="42" title="Material UI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" width="42" title="React Router"/>
-<img src="https://cdn.simpleicons.org/axios" width="42" title="Axios"/>
+  <img src="https://cdn.simpleicons.org/axios" width="42" title="Axios"/>
 </p>
 
 **Libraries:** Recharts • jsPDF • SheetJS (xlsx)
@@ -57,20 +38,33 @@ Current modules include:
 ### Backend
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" title="Node.js"/> 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/prisma/FFFFFF">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/prisma/2D3748">
-    <img src="https://cdn.simpleicons.org/prisma/2D3748" width="42" title="Prisma ORM" alt="Prisma ORM"/>
-  </picture>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" title="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" title="Node.js"/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/FFFFFF">
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/000000">
     <img src="https://cdn.simpleicons.org/express/000000" width="42" title="Express.js" alt="Express.js"/>
   </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/sqlalchemy/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/sqlalchemy/000000">
+    <img src="https://cdn.simpleicons.org/sqlalchemy/000000" width="42" title="SQLAlchemy" alt="SQLAlchemy"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/prisma/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/prisma/2D3748">
+    <img src="https://cdn.simpleicons.org/prisma/2D3748" width="42" title="Prisma ORM" alt="Prisma ORM"/>
+  </picture>
 </p>
 
+**Python Backend:** FastAPI • SQLAlchemy • Pydantic • Pydantic Settings • Alembic
+
+**Node.js Backend:** Node.js • Express.js • Prisma ORM
+
 **Authentication:** JWT • bcrypt
+
+**Caching & Services:** Redis
 
 ---
 
@@ -80,7 +74,19 @@ Current modules include:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" title="PostgreSQL"/>
 </p>
 
-**Hosting:** Neon PostgreSQL
+**Database:** PostgreSQL • Neon
+
+**Drivers:** psycopg2
+
+---
+
+### Testing
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="42" title="Pytest"/>
+</p>
+
+**Testing:** Pytest • HTTPX
 
 ---
 
@@ -95,7 +101,8 @@ Current modules include:
   <img src="https://cdn.simpleicons.org/render/46E3B7" width="42" title="Render"/>
 </p>
 
----
+**Hosting:** Vercel • Render
+
 
 ### Tools
 
@@ -116,9 +123,8 @@ Current modules include:
 # GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=heisallaki&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=heisallaki&layout=compact&theme=transparent&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-tau-one-81.vercel.app/api?username=heisallaki" />
+  <img height="170" src="https://github-readme-stats-tau-one-81.vercel.app/api/top-langs/?username=heisallaki&layout=compact" />
 </p>
 
 ---
