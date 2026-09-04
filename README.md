@@ -132,7 +132,9 @@ I enjoy turning complex workflows into intuitive digital experiences while conti
 # Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=heisallaki&theme=github-dark&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=heisallaki&theme=github-dark&hide_border=true&area=true" width="100%"/>
+
 </p>
 
 ---
@@ -145,25 +147,79 @@ I enjoy turning complex workflows into intuitive digital experiences while conti
 
 ---
 
-## Featured Project
+# Featured Projects
 
-# SmartBizzSystem
+## Forex AI Analyst
 
-A modern business management platform built to help small and medium-sized businesses streamline inventory, sales, customer management, supplier operations, reporting, and point-of-sale workflows through a fast, intuitive, and scalable web application.
+**[Live Application](https://forex-analyst.vercel.app/)** • **[GitHub Repository](https://github.com/heisallaki/Forex-Analyst)**
 
-### Highlights
+A real-time forex and gold analysis platform that combines technical analysis, feature engineering, and six locally-trained machine learning models to produce explainable trading recommendations. It does not sell signals or place trades. Instead, it analyzes live and historical market data and provides recommendations you can interrogate, including trend, confidence, risk, expected reward, supporting indicators, and the exact conditions that would invalidate the analysis. When the evidence is not strong enough, it recommends no trade rather than forcing a call.
 
-- Modern dashboard with real-time business insights
-- Inventory and supplier management
-- Sales and customer management
-- Point of Sale (POS)
-- Business reporting and analytics
-- Secure JWT-based authentication
-- Responsive Material UI interface
+### What It Does
+
+* Streams live prices for major forex pairs and XAU/USD
+* Stores historical market data and displays real-time candlestick charts
+* Computes technical indicators and price-action features in-house
+* Uses RSI, MACD, ADX, Bollinger Bands, market structure, liquidity sweeps, and fair value gaps
+* Runs six locally-trained ML models for trend, entry quality, confidence, risk, reward, and market regime
+* Combines model outputs into one explainable recommendation
+* Clearly identifies the indicators and conditions supporting each recommendation
+* Provides explicit invalidation conditions for every analysis
+* Recommends no trade when the available evidence is insufficient
+* Supports backtesting across multiple trading strategies
+* Includes trend-following, SMC/liquidity, range, breakout, swing, and scalping strategies
+* Provides a paper trading environment with virtual portfolios
+* Supports stop-loss/take-profit execution and trade journaling
+* Includes registration, email verification, password reset, and account deletion
+* Uses JWT authentication with rotating refresh tokens
 
 ### Built With
 
-**React 19 • TypeScript • Vite • Material UI • Express.js • Prisma ORM • PostgreSQL (Neon) • Render • Vercel**
+**Frontend:** React 19 • TypeScript • Vite • Material UI • TradingView Lightweight Charts • Recharts
+
+**Backend:** Python • FastAPI • SQLAlchemy • Alembic
+
+**Database:** PostgreSQL • TimescaleDB • Neon
+
+**AI/ML:** scikit-learn • XGBoost • LightGBM • pandas • NumPy
+
+**Real-Time:** WebSockets • Redis Pub/Sub • Upstash
+
+**Hosting:** Vercel • Northflank
+
+---
+
+## SmartBizzSystem
+
+**[Live Application](https://smart-bizz-system.vercel.app/)** • **[GitHub Repository](https://github.com/heisallaki/SmartBizz)**
+
+A modern business management platform designed to help small and medium-sized businesses streamline inventory, sales, customer management, supplier operations, reporting, and point-of-sale workflows through a fast, intuitive, and scalable web application.
+
+### Highlights
+
+* Modern dashboard with real-time business insights
+* Inventory and stock management
+* Supplier management and purchasing workflows
+* Sales and customer management
+* Point of Sale (POS)
+* Business reporting and analytics
+* Secure JWT-based authentication
+* Responsive Material UI interface
+* Centralized business operations and data management
+* Designed with scalability and maintainability in mind
+
+### Built With
+
+**Frontend:** React 19 • TypeScript • Vite • Material UI • MUI DataGrid • Recharts • jsPDF • SheetJS
+
+**Backend:** Node.js • Express.js • Prisma ORM
+
+**Database:** PostgreSQL • Neon
+
+**Authentication:** JWT • bcrypt
+
+**Hosting:** Vercel • Render
+
 
 ---
 
