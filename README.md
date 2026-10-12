@@ -1,236 +1,126 @@
 <p align="center">
-  <img src="./banner.png" alt="Allaki Banner" width="100%" />
+  <img src="./banner.png" alt="KAL banner: Building software with purpose" width="100%" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1000&color=E8DCC8&center=true&width=700&height=60&lines=Building+software+with+purpose.;Designing+intuitive+experiences.;Creating+scalable+business+solutions.;Always+learning.+Always+improving.)](https://git.io/typing-svg)
+<h1 align="center">Alvin Langat</h1>
 
-# Hi, I'm Alvin Langat.
+<p align="center"><strong>Business · Technology · Innovation</strong></p>
 
-I'm a developer focused on building modern software with clean architecture, thoughtful design, and real-world usability.
+<p align="center">Building practical digital solutions at the intersection of business and technology.</p>
 
-I enjoy turning complex workflows into intuitive digital experiences while continuously improving performance, maintainability, and user experience.
-
-## About
-
-* Focused on scalable software architecture
-* Passionate about modern UI/UX
-* Building clean, maintainable applications
-* Always refining one project at a time
-
-## Tech Stack
-
-### Frontend
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="42" title="Vite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="42" title="Material UI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" width="42" title="React Router"/>
-  <img src="https://cdn.simpleicons.org/axios" width="42" title="Axios"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;size=22&amp;pause=1000&amp;color=5B7DB1&amp;center=true&amp;vCenter=true&amp;width=435&amp;height=40&amp;lines=Business.;Technology.;Innovation." alt="Business. Technology. Innovation." />
 </p>
 
-**Libraries:** Recharts • jsPDF • SheetJS (xlsx)
+<h2 align="center">Tech Stack</h2>
 
----
+<h3 align="center">Frontend</h3>
 
-### Backend
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/react/react-original.svg" width="42" height="42" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/vitejs/vitejs-original.svg" width="42" height="42" alt="Vite" title="Vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/materialui/materialui-original.svg" width="42" height="42" alt="Material UI" title="Material UI" />
+  <img src="https://cdn.simpleicons.org/reactrouter/CA4245" width="42" height="42" alt="React Router" title="React Router" />
+  <img src="https://cdn.simpleicons.org/astro/BC52EE" width="42" height="42" alt="Astro" title="Astro" />
+  <img src="https://cdn.simpleicons.org/axios/5A29E4" width="42" height="42" alt="Axios" title="Axios" />
+</p>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" title="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" title="Node.js"/>
+<p align="center"><strong>Libraries:</strong> Recharts • jsPDF • SheetJS (xlsx)</p>
+
+<h3 align="center">Backend</h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI" title="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" title="Node.js" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/FFFFFF">
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/000000">
-    <img src="https://cdn.simpleicons.org/express/000000" width="42" title="Express.js" alt="Express.js"/>
+    <img src="https://cdn.simpleicons.org/express/000000" width="42" height="42" alt="Express.js" title="Express.js" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/sqlalchemy/FFFFFF">
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/sqlalchemy/000000">
-    <img src="https://cdn.simpleicons.org/sqlalchemy/000000" width="42" title="SQLAlchemy" alt="SQLAlchemy"/>
+    <img src="https://cdn.simpleicons.org/sqlalchemy/000000" width="42" height="42" alt="SQLAlchemy" title="SQLAlchemy" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/prisma/FFFFFF">
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/prisma/2D3748">
-    <img src="https://cdn.simpleicons.org/prisma/2D3748" width="42" title="Prisma ORM" alt="Prisma ORM"/>
+    <img src="https://cdn.simpleicons.org/prisma/2D3748" width="42" height="42" alt="Prisma ORM" title="Prisma ORM" />
   </picture>
 </p>
 
-**Python Backend:** FastAPI • SQLAlchemy • Pydantic • Pydantic Settings • Alembic
-
-**Node.js Backend:** Node.js • Express.js • Prisma ORM
-
-**Authentication:** JWT • bcrypt
-
-**Caching & Services:** Redis
-
----
-
-### Database
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" title="PostgreSQL"/>
+<p align="center">
+  <strong>Python Backend:</strong> FastAPI • SQLAlchemy • Pydantic • Pydantic Settings • Alembic<br />
+  <strong>Node.js Backend:</strong> Node.js • Express.js • Prisma ORM<br />
+  <strong>Authentication:</strong> JWT • bcrypt<br />
+  <strong>Caching:</strong> Redis
 </p>
 
-**Database:** PostgreSQL • Neon
+<h3 align="center">Database and Services</h3>
 
-**Drivers:** psycopg2
-
----
-
-### Testing
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="42" title="Pytest"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="42" height="42" alt="Supabase" title="Supabase" />
 </p>
 
-**Testing:** Pytest • HTTPX
+<p align="center">
+  <strong>Database:</strong> PostgreSQL • Neon<br />
+  <strong>Drivers:</strong> psycopg2<br />
+  <strong>Services:</strong> Supabase
+</p>
 
----
+<h3 align="center">Testing</h3>
 
-### Deployment
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/pytest/pytest-original.svg" width="42" height="42" alt="Pytest" title="Pytest" />
+</p>
 
-<p align="left">
+<p align="center"><strong>Testing:</strong> Pytest • HTTPX</p>
+
+<h3 align="center">Deployment</h3>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/FFFFFF">
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/vercel/000000">
-    <img src="https://cdn.simpleicons.org/vercel/000000" width="42" title="Vercel" alt="Vercel"/>
+    <img src="https://cdn.simpleicons.org/vercel/000000" width="42" height="42" alt="Vercel" title="Vercel" />
   </picture>
-  <img src="https://cdn.simpleicons.org/render/46E3B7" width="42" title="Render"/>
+  <img src="https://cdn.simpleicons.org/render/46E3B7" width="42" height="42" alt="Render" title="Render" />
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="42" height="42" alt="Cloudflare" title="Cloudflare" />
 </p>
 
-**Hosting:** Vercel • Render
+<p align="center"><strong>Hosting:</strong> Vercel • Render • Cloudflare • Northflank</p>
 
+<h3 align="center">Tools</h3>
 
-### Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42" title="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" title="Figma"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/postman/postman-original.svg" width="42" height="42" alt="Postman" title="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/figma/figma-original.svg" width="42" height="42" alt="Figma" title="Figma" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF">
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
-    <img src="https://cdn.simpleicons.org/github/181717" width="42" title="GitHub" alt="GitHub"/>
+    <img src="https://cdn.simpleicons.org/github/181717" width="42" height="42" alt="GitHub" title="GitHub" />
   </picture>
 </p>
 
----
-
-# GitHub Analytics
+<h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-tau-one-81.vercel.app/api?username=heisallaki" />
-  <img height="170" src="https://github-readme-stats-tau-one-81.vercel.app/api/top-langs/?username=heisallaki&layout=compact" />
+  <img height="170" src="https://github-readme-stats-tau-one-81.vercel.app/api?username=heisallaki" alt="GitHub stats for heisallaki" />
+  <img height="170" src="https://github-readme-stats-tau-one-81.vercel.app/api/top-langs/?username=heisallaki&amp;layout=compact" alt="Most used languages for heisallaki" />
 </p>
 
----
-
-# Contribution Activity
+<h2 align="center">Contribution Snake</h2>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=heisallaki&theme=github-dark&hide_border=true&area=true" width="100%"/>
-
+  <img src="https://raw.githubusercontent.com/heisallaki/heisallaki/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation for heisallaki" />
 </p>
 
----
-
-# Contribution Snake
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/heisallaki/heisallaki/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-# Featured Projects
-
-## Forex AI Analyst
-
-**[Live Application](https://forex-analyst.vercel.app/)** • **[GitHub Repository](https://github.com/heisallaki/Forex-Analyst)**
-
-A real-time forex and gold analysis platform that combines technical analysis, feature engineering, and six locally-trained machine learning models to produce explainable trading recommendations. It does not sell signals or place trades. Instead, it analyzes live and historical market data and provides recommendations you can interrogate, including trend, confidence, risk, expected reward, supporting indicators, and the exact conditions that would invalidate the analysis. When the evidence is not strong enough, it recommends no trade rather than forcing a call.
-
-### What It Does
-
-* Streams live prices for major forex pairs and XAU/USD
-* Stores historical market data and displays real-time candlestick charts
-* Computes technical indicators and price-action features in-house
-* Uses RSI, MACD, ADX, Bollinger Bands, market structure, liquidity sweeps, and fair value gaps
-* Runs six locally-trained ML models for trend, entry quality, confidence, risk, reward, and market regime
-* Combines model outputs into one explainable recommendation
-* Clearly identifies the indicators and conditions supporting each recommendation
-* Provides explicit invalidation conditions for every analysis
-* Recommends no trade when the available evidence is insufficient
-* Supports backtesting across multiple trading strategies
-* Includes trend-following, SMC/liquidity, range, breakout, swing, and scalping strategies
-* Provides a paper trading environment with virtual portfolios
-* Supports stop-loss/take-profit execution and trade journaling
-* Includes registration, email verification, password reset, and account deletion
-* Uses JWT authentication with rotating refresh tokens
-
-### Built With
-
-**Frontend:** React 19 • TypeScript • Vite • Material UI • TradingView Lightweight Charts • Recharts
-
-**Backend:** Python • FastAPI • SQLAlchemy • Alembic
-
-**Database:** PostgreSQL • TimescaleDB • Neon
-
-**AI/ML:** scikit-learn • XGBoost • LightGBM • pandas • NumPy
-
-**Real-Time:** WebSockets • Redis Pub/Sub • Upstash
-
-**Hosting:** Vercel • Northflank
-
----
-
-## SmartBizzSystem
-
-**[Live Application](https://smart-bizz-system.vercel.app/)** • **[GitHub Repository](https://github.com/heisallaki/SmartBizz)**
-
-A modern business management platform designed to help small and medium-sized businesses streamline inventory, sales, customer management, supplier operations, reporting, and point-of-sale workflows through a fast, intuitive, and scalable web application.
-
-### Highlights
-
-* Modern dashboard with real-time business insights
-* Inventory and stock management
-* Supplier management and purchasing workflows
-* Sales and customer management
-* Point of Sale (POS)
-* Business reporting and analytics
-* Secure JWT-based authentication
-* Responsive Material UI interface
-* Centralized business operations and data management
-* Designed with scalability and maintainability in mind
-
-### Built With
-
-**Frontend:** React 19 • TypeScript • Vite • Material UI • MUI DataGrid • Recharts • jsPDF • SheetJS
-
-**Backend:** Node.js • Express.js • Prisma ORM
-
-**Database:** PostgreSQL • Neon
-
-**Authentication:** JWT • bcrypt
-
-**Hosting:** Vercel • Render
-
-
----
-
-# Developer Insights
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/heisallaki/heisallaki/main/github-metrics.svg" width="100%"/>
-</p>
-
----
-
-<p align="center">
-© 2026–Present KAL
+  © 2026–Present KAL • <a href="https://github.com/heisallaki">GitHub</a> • <a href="https://heisallaki.github.io/Portfolio/">Portfolio</a>
 </p>
