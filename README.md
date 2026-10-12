@@ -2,14 +2,14 @@
   <img src="./banner.png" alt="KAL banner: Building software with purpose" width="100%" />
 </p>
 
-<h1 align="center">Alvin Langat</h1>
+<h1 align="center">Alvin K. Langat</h1>
 
 <p align="center"><strong>Business · Technology · Innovation</strong></p>
 
 <p align="center">Building practical digital solutions at the intersection of business and technology.</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;size=22&amp;pause=1000&amp;color=5B7DB1&amp;center=true&amp;vCenter=true&amp;width=435&amp;height=40&amp;lines=Business.;Technology.;Innovation." alt="Business. Technology. Innovation." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;size=22&amp;pause=1000&amp;color=5B7DB1&amp;center=true&amp;vCenter=true&amp;width=435&amp;height=40&amp;lines=Business;Technology;Innovation" alt="Business Technology Innovation" />
 </p>
 
 <h2 align="center">Tech Stack</h2>
@@ -111,8 +111,8 @@
 <h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-tau-one-81.vercel.app/api?username=heisallaki" alt="GitHub stats for heisallaki" />
-  <img height="170" src="https://github-readme-stats-tau-one-81.vercel.app/api/top-langs/?username=heisallaki&amp;layout=compact" alt="Most used languages for heisallaki" />
+  <img height="170" src="https://github-readme-stats-tau-one-81.vercel.app/api?username=heisallaki&amp;bg_color=1A1D21&amp;title_color=5B7DB1&amp;text_color=C9D1D9&amp;icon_color=5B7DB1&amp;border_color=2A2E34" alt="GitHub stats for heisallaki" />
+  <img height="170" src="https://github-readme-stats-tau-one-81.vercel.app/api/top-langs/?username=heisallaki&amp;layout=compact&amp;bg_color=1A1D21&amp;title_color=5B7DB1&amp;text_color=C9D1D9&amp;icon_color=5B7DB1&amp;border_color=2A2E34" alt="Most used languages for heisallaki" />
 </p>
 
 <h2 align="center">Contribution Snake</h2>
@@ -122,5 +122,5 @@
 </p>
 
 <p align="center">
-  © 2026–Present KAL • <a href="https://github.com/heisallaki">GitHub</a> • <a href="https://heisallaki.github.io/Portfolio/">Portfolio</a>
+  © 2026–Present KAL • <a href="https://heisallaki.github.io/Portfolio/">Portfolio</a> • <a href="https://www.linkedin.com/in/alvin-langat">LinkedIn</a>
 </p>
