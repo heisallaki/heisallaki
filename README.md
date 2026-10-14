@@ -6,7 +6,7 @@
 
 <p align="center"><strong>Business · Technology · Innovation</strong></p>
 
-<p align="center">Building practical digital solutions at the intersection of business and technology.</p>
+<p align="center">git commit && git push.</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;size=22&amp;pause=1000&amp;color=5B7DB1&amp;center=true&amp;vCenter=true&amp;width=435&amp;height=40&amp;lines=Business;Technology;Innovation" alt="Business Technology Innovation" />
@@ -32,19 +32,35 @@
 
 <br />
 
-<h3 align="center">RawFeed</h3>
+<h3 align="center">The Polished Co.</h3>
 
 <p align="center">
-  <a href="https://rawfeed-news.vercel.app/">
-    <img src="assets/projects/rawfeed.png" alt="RawFeed home page, a Kenyan news aggregator that groups stories by event" width="640" />
+  <a href="https://heisallaki.github.io/ThePolishedCo./">
+    <img src="assets/projects/the-polished-co.png" alt="The Polished Co. Ke home page, a beauty studio website based in Juja" width="640" />
   </a>
 </p>
 
-<p align="center">A minimal information platform designed to help people stay informed about important real world events without depending on social media.</p>
+<p align="center">Fully static website for a beauty studio in Juja, Kenya, with service collections, gallery, client reviews and appointment booking.</p>
 
-<p align="center"><strong>Built with:</strong> React • React Native • FastAPI • PostgreSQL • Ollama</p>
+<p align="center"><strong>Built with:</strong> Astro • TypeScript • GitHub Pages</p>
 
-<p align="center"><a href="https://rawfeed-news.vercel.app/">Live demo</a> • <sub>Source code: Private</sub></p>
+<p align="center"><a href="https://heisallaki.github.io/ThePolishedCo./">Live demo</a> • <sub>Source code: Private</sub></p>
+
+<br />
+
+<h3 align="center">New Catch</h3>
+
+<p align="center">
+  <a href="https://newcatch.pages.dev/">
+    <img src="assets/projects/new-catch.png" alt="New Catch landing page, a social discovery app for verified JKUAT students" width="640" />
+  </a>
+</p>
+
+<p align="center">Social discovery app where verified JKUAT students meet through shared interests, with mutual matching before chat opens.</p>
+
+<p align="center"><strong>Built with:</strong> React Native • Expo • FastAPI • PostgreSQL • WebSockets</p>
+
+<p align="center"><a href="https://newcatch.pages.dev/">Live demo</a> • <sub>Source code: Private</sub></p>
 
 <br />
 
@@ -80,35 +96,19 @@
 
 <br />
 
-<h3 align="center">The Polished Co. Ke</h3>
+<h3 align="center">RawFeed</h3>
 
 <p align="center">
-  <a href="https://heisallaki.github.io/ThePolishedCo./">
-    <img src="assets/projects/the-polished-co.png" alt="The Polished Co. Ke home page, a beauty studio website based in Juja" width="640" />
+  <a href="https://rawfeed-news.vercel.app/">
+    <img src="assets/projects/rawfeed.png" alt="RawFeed home page, a Kenyan news aggregator that groups stories by event" width="640" />
   </a>
 </p>
 
-<p align="center">Fully static website for a beauty studio in Juja, Kenya, with service collections, gallery, client reviews and appointment booking.</p>
+<p align="center">A minimal information platform designed to help people stay informed about important real world events without depending on social media.</p>
 
-<p align="center"><strong>Built with:</strong> Astro • TypeScript • GitHub Pages</p>
+<p align="center"><strong>Built with:</strong> React • React Native • FastAPI • PostgreSQL • Ollama</p>
 
-<p align="center"><a href="https://heisallaki.github.io/ThePolishedCo./">Live demo</a> • <sub>Source code: Private</sub></p>
-
-<br />
-
-<h3 align="center">New Catch</h3>
-
-<p align="center">
-  <a href="https://newcatch.pages.dev/">
-    <img src="assets/projects/new-catch.png" alt="New Catch landing page, a social discovery app for verified JKUAT students" width="640" />
-  </a>
-</p>
-
-<p align="center">Social discovery app where verified JKUAT students meet through shared interests, with mutual matching before chat opens.</p>
-
-<p align="center"><strong>Built with:</strong> React Native • Expo • FastAPI • PostgreSQL • WebSockets</p>
-
-<p align="center"><a href="https://newcatch.pages.dev/">Live demo</a> • <sub>Source code: Private</sub></p>
+<p align="center"><a href="https://rawfeed-news.vercel.app/">Live demo</a> • <sub>Source code: Private</sub></p>
 
 <hr />
 
