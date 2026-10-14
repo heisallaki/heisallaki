@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./banner.png" alt="KAL banner: Building software with purpose" width="100%" />
-</p>
-
 <h1 align="center">Alvin K. Langat</h1>
 
 <p align="center"><strong>Business · Technology · Innovation</strong></p>
