@@ -31,7 +31,7 @@
 <h3 align="center">The Polished Co.</h3>
 
 <p align="center">
-  <a href="https://heisallaki.github.io/ThePolishedCo./">
+  <a href="https://thepolishedco.pages.dev/">
     <img src="assets/projects/the-polished-co.png" alt="The Polished Co. Ke home page, a beauty studio website based in Juja" width="640" />
   </a>
 </p>
