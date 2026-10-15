@@ -38,7 +38,7 @@
 
 <p align="center">Fully static website for a beauty studio in Juja, Kenya, with service collections, gallery, client reviews and appointment booking.</p>
 
-<p align="center"><strong>Built with:</strong> Astro • TypeScript • GitHub Pages</p>
+<p align="center"><strong>Built with:</strong> Astro • TypeScript • Cloudflare</p>
 
 <p align="center"><a href="https://thepolishedco.pages.dev/">Live demo</a> • <sub>Source code: Private</sub></p>
 
