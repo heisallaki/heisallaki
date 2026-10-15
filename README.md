@@ -40,7 +40,7 @@
 
 <p align="center"><strong>Built with:</strong> Astro • TypeScript • GitHub Pages</p>
 
-<p align="center"><a href="https://heisallaki.github.io/ThePolishedCo./">Live demo</a> • <sub>Source code: Private</sub></p>
+<p align="center"><a href="https://thepolishedco.pages.dev/">Live demo</a> • <sub>Source code: Private</sub></p>
 
 <br />
 
@@ -256,4 +256,4 @@
   </a>
 </p>
 
-<p align="center">© 2026 KAL</p>
+<p align="center">© 2026 Alvin K. Langat</p>
