@@ -44,6 +44,22 @@
 
 <br />
 
+<h3 align="center">Allaki Lensed It</h3>
+
+<p align="center">
+  <a href="https://lensedbyallaki.pages.dev/">
+    <img src="assets/projects/allaki-lensed-it.png" alt="Allaki Lensed It home page, an automotive photography and culture website" width="640" />
+  </a>
+</p>
+
+<p align="center">A personal automotive photography and culture website celebrating cars, bikes and classics, with photo, video and music content, built as a fast static site.</p>
+
+<p align="center"><strong>Built with:</strong> Astro • TypeScript • Cloudflare</p>
+
+<p align="center"><a href="https://lensedbyallaki.pages.dev/">Live demo</a> • <sub>Source code: Private</sub></p>
+
+<br />
+
 <h3 align="center">New Catch</h3>
 
 <p align="center">
