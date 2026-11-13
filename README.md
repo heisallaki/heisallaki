@@ -60,7 +60,7 @@
 
 <br />
 
-<h3 align="center">New Catch</h3>
+<!--<h3 align="center">New Catch</h3>
 
 <p align="center">
   <a href="https://newcatch.pages.dev/">
@@ -74,7 +74,7 @@
 
 <p align="center"><a href="https://newcatch.pages.dev/">Live demo</a> • <sub>Source code: Private</sub></p>
 
-<br />
+<br />-->
 
 <h3 align="center">Forex AI Analyst</h3>
 
