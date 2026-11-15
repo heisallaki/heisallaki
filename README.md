@@ -238,8 +238,8 @@
 <br />
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-tau-one-81.vercel.app/api?username=heisallaki&amp;bg_color=1A1D21&amp;title_color=5B7DB1&amp;text_color=C9D1D9&amp;icon_color=5B7DB1&amp;border_color=2A2E34" alt="GitHub stats for heisallaki" />&nbsp;&nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats-tau-one-81.vercel.app/api/top-langs/?username=heisallaki&amp;layout=compact&amp;bg_color=1A1D21&amp;title_color=5B7DB1&amp;text_color=C9D1D9&amp;icon_color=5B7DB1&amp;border_color=2A2E34" alt="Most used languages for heisallaki" />
+  <img height="170" src="https://github-readme-stats-tau-one-81.vercel.app/api/top-langs/?username=heisallaki&amp;layout=compact&amp;bg_color=1A1D21&amp;title_color=5B7DB1&amp;text_color=C9D1D9&amp;icon_color=5B7DB1&amp;border_color=2A2E34" alt="Most used languages for heisallaki" />&nbsp;&nbsp;&nbsp;
+  <img height="170" src="assets/cards/focus-areas.svg" alt="Focus areas: business systems, web applications, AI-powered tools and mobile apps" />
 </p>
 
 <hr />

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="170" viewBox="0 0 400 170" role="img" aria-label="Focus areas: business systems, web applications, AI-powered tools and mobile apps" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">
+  <title>Focus areas: business systems, web applications, AI-powered tools and mobile apps</title>
+  <rect x="0.5" y="0.5" width="399" height="169" rx="4.5" fill="#1A1D21" stroke="#2A2E34" />
+  <text x="25" y="38" font-size="18" font-weight="600" fill="#5B7DB1">Focus Areas</text>
+  <circle cx="30" cy="69" r="3" fill="#5B7DB1" />
+  <text x="44" y="74" font-size="15" fill="#C9D1D9">Business systems</text>
+  <circle cx="30" cy="95" r="3" fill="#5B7DB1" />
+  <text x="44" y="100" font-size="15" fill="#C9D1D9">Web applications</text>
+  <circle cx="30" cy="121" r="3" fill="#5B7DB1" />
+  <text x="44" y="126" font-size="15" fill="#C9D1D9">AI-powered tools</text>
+  <circle cx="30" cy="147" r="3" fill="#5B7DB1" />
+  <text x="44" y="152" font-size="15" fill="#C9D1D9">Mobile apps</text>
+</svg>
